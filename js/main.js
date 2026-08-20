@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════
-// SERVILIN RAMÍREZ MORALES — lógica del sitio
+// SERVILIN S.A. DE C.V. — lógica del sitio
 // ═══════════════════════════════════════════════════════
 
 // ── Datos del negocio (edita aquí cuando tengas los datos definitivos) ──
